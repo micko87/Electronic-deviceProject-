@@ -1,8 +1,8 @@
-## BasicProject
+## Electronic Devices Project
 
-### March 25, 2016
+### April 9th, 2016
 
-My third version controlled project
+A example of class hierachy subclasses
 
 * git 
 * Java 7
